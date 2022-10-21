@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pokemon-Fight-Plugin-Shirome">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pokemon_Fight_Plugin_Shirome</output-path>
+    <root id="archive" name="Pokemon-Fight-Plugin-Shirome.jar">
+      <element id="module-output" name="Pokemon-Fight-Plugin-Shirome" />
+    </root>
+  </artifact>
+</component>

@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Pokemon-Fight-Plugin-Shirome" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="118c6649-701e-405c-8f23-c428fc58b0f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/spigot_1_8_8_R0_1_SNAPSHOT_latest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pokemon-Fight-Plugin-Shirome-main/PokemonPlugin/src/ch/azredonfire/pokemonfightplugin/ItemCustomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Pokemon_Fight_Plugin_Shirome.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pokemon-Fight-Plugin-Shirome-main/PokemonPlugin/src/ch/azredonfire/pokemonfightplugin/RegisterCustomItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pokemon-Fight-Plugin-Shirome-main/PokemonPlugin/PokemonPlugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon-Fight-Plugin-Shirome-main/PokemonPlugin/PokemonPlugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon-Fight-Plugin-Shirome-main/PokemonPlugin/src/ch/azredonfire/pokemonfightplugin/ItemCustomList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon-Fight-Plugin-Shirome-main/PokemonPlugin/src/ch/azredonfire/pokemonfightplugin/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon-Fight-Plugin-Shirome-main/PokemonPlugin/src/ch/azredonfire/pokemonfightplugin/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pokemon-Fight-Plugin-Shirome-main/PokemonPlugin/src/ch/azredonfire/pokemonfightplugin/PokemonFightListeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon-Fight-Plugin-Shirome-main/PokemonPlugin/src/ch/azredonfire/pokemonfightplugin/PokemonFightListeners.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,10 +47,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-1.8",
     "last_opened_file_path": "C:/Users/eehei/Downloads/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

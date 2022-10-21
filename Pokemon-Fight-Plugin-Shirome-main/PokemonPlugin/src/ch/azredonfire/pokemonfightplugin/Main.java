@@ -11,7 +11,7 @@ public class Main extends JavaPlugin {
                 "Version : " + getDescription().getVersion() + "\n" +
                 getDescription().getDescription());
         getServer().getPluginManager().registerEvents(new PokemonFightListeners(), this);
-        System.out.println("Plugin Pokemon On");
+        System.out.println("Plugin Pokemon Allumé");
         super.onEnable();
     }
 
